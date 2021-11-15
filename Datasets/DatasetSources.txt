@@ -1,0 +1,1 @@
+Stars.csv - https://www.kaggle.com/brsdincer/star-type-classification/version/1 - Open Database License
